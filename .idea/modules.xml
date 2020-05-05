@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1 a Hello World/1 a Hello World.iml" filepath="$PROJECT_DIR$/1 a Hello World/1 a Hello World.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1 b Einstein/1 b Einstein.iml" filepath="$PROJECT_DIR$/1 b Einstein/1 b Einstein.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1 c Snowman/1 c Snowman.iml" filepath="$PROJECT_DIR$/1 c Snowman/1 c Snowman.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1 d Basic IO/1 d Basic IO.iml" filepath="$PROJECT_DIR$/1 d Basic IO/1 d Basic IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1 e Numeric IO/1 e Numeric IO.iml" filepath="$PROJECT_DIR$/1 e Numeric IO/1 e Numeric IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1 f File IO/1 f File IO.iml" filepath="$PROJECT_DIR$/1 f File IO/1 f File IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1 g Vector IO/1 g Vector IO.iml" filepath="$PROJECT_DIR$/1 g Vector IO/1 g Vector IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1 h Enum Test/1 h Enum Test.iml" filepath="$PROJECT_DIR$/1 h Enum Test/1 h Enum Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1 i Enhanced for Loop/1 i Enhanced for Loop.iml" filepath="$PROJECT_DIR$/1 i Enhanced for Loop/1 i Enhanced for Loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1 j Break with Label/1 j Break with Label.iml" filepath="$PROJECT_DIR$/1 j Break with Label/1 j Break with Label.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1 k ArrayList/1 k ArrayList.iml" filepath="$PROJECT_DIR$/1 k ArrayList/1 k ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1 l Parameter Passing/1 l Parameter Passing.iml" filepath="$PROJECT_DIR$/1 l Parameter Passing/1 l Parameter Passing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1 m ListTest/1 m ListTest.iml" filepath="$PROJECT_DIR$/1 m ListTest/1 m ListTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1 n Interfaces version 1/1 n Interfaces version 1.iml" filepath="$PROJECT_DIR$/1 n Interfaces version 1/1 n Interfaces version 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1 o Interfaces version 2/1 o Interfaces version 2.iml" filepath="$PROJECT_DIR$/1 o Interfaces version 2/1 o Interfaces version 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1 p String Equality/1 p String Equality.iml" filepath="$PROJECT_DIR$/1 p String Equality/1 p String Equality.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1 q String Conversion/1 q String Conversion.iml" filepath="$PROJECT_DIR$/1 q String Conversion/1 q String Conversion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1 r Exception Finally/1 r Exception Finally.iml" filepath="$PROJECT_DIR$/1 r Exception Finally/1 r Exception Finally.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1 s Hide Override/1 s Hide Override.iml" filepath="$PROJECT_DIR$/1 s Hide Override/1 s Hide Override.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1 t Compare/1 t Compare.iml" filepath="$PROJECT_DIR$/1 t Compare/1 t Compare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2 8 PushButton/2 8 PushButton.iml" filepath="$PROJECT_DIR$/2 8 PushButton/2 8 PushButton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2 a Authority/2 a Authority.iml" filepath="$PROJECT_DIR$/2 a Authority/2 a Authority.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2 b Nested Panels/2 b Nested Panels.iml" filepath="$PROJECT_DIR$/2 b Nested Panels/2 b Nested Panels.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2 c Smiling Face/2 c Smiling Face.iml" filepath="$PROJECT_DIR$/2 c Smiling Face/2 c Smiling Face.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2 d Splat/2 d Splat.iml" filepath="$PROJECT_DIR$/2 d Splat/2 d Splat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2 e PushCounter/2 e PushCounter.iml" filepath="$PROJECT_DIR$/2 e PushCounter/2 e PushCounter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2 f Fahrenheit1/2 f Fahrenheit1.iml" filepath="$PROJECT_DIR$/2 f Fahrenheit1/2 f Fahrenheit1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2 g Fahrenheit2/2 g Fahrenheit2.iml" filepath="$PROJECT_DIR$/2 g Fahrenheit2/2 g Fahrenheit2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2 g g LeftRight/2 g g LeftRight.iml" filepath="$PROJECT_DIR$/2 g g LeftRight/2 g g LeftRight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2 h EvenOdd/2 h EvenOdd.iml" filepath="$PROJECT_DIR$/2 h EvenOdd/2 h EvenOdd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2 i StyleOptions/2 i StyleOptions.iml" filepath="$PROJECT_DIR$/2 i StyleOptions/2 i StyleOptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2 j Quote Options/2 j Quote Options.iml" filepath="$PROJECT_DIR$/2 j Quote Options/2 j Quote Options.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2 k Layout/2 k Layout.iml" filepath="$PROJECT_DIR$/2 k Layout/2 k Layout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2 l BorderDemo/2 l BorderDemo.iml" filepath="$PROJECT_DIR$/2 l BorderDemo/2 l BorderDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2 m Rocket/2 m Rocket.iml" filepath="$PROJECT_DIR$/2 m Rocket/2 m Rocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2 n Dots/2 n Dots.iml" filepath="$PROJECT_DIR$/2 n Dots/2 n Dots.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2 o RubberLines/2 o RubberLines.iml" filepath="$PROJECT_DIR$/2 o RubberLines/2 o RubberLines.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2 p Direction/2 p Direction.iml" filepath="$PROJECT_DIR$/2 p Direction/2 p Direction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2 q Rebound/2 q Rebound.iml" filepath="$PROJECT_DIR$/2 q Rebound/2 q Rebound.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2 r FileDisplay/2 r FileDisplay.iml" filepath="$PROJECT_DIR$/2 r FileDisplay/2 r FileDisplay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2 s ColourDisplay/2 s ColourDisplay.iml" filepath="$PROJECT_DIR$/2 s ColourDisplay/2 s ColourDisplay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2 t SlideColor/2 t SlideColor.iml" filepath="$PROJECT_DIR$/2 t SlideColor/2 t SlideColor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2 u LightBulb/2 u LightBulb.iml" filepath="$PROJECT_DIR$/2 u LightBulb/2 u LightBulb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2 v JukeBox/2 v JukeBox.iml" filepath="$PROJECT_DIR$/2 v JukeBox/2 v JukeBox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2 w TransitMap/2 w TransitMap.iml" filepath="$PROJECT_DIR$/2 w TransitMap/2 w TransitMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2 y PickImage/2 y PickImage.iml" filepath="$PROJECT_DIR$/2 y PickImage/2 y PickImage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3 b TiledPictures/3 b TiledPictures.iml" filepath="$PROJECT_DIR$/3 b TiledPictures/3 b TiledPictures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3 b TiledPictures Applet/3 b TiledPictures Applet.iml" filepath="$PROJECT_DIR$/3 b TiledPictures Applet/3 b TiledPictures Applet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3 c FractalsApplet/3 c FractalsApplet.iml" filepath="$PROJECT_DIR$/3 c FractalsApplet/3 c FractalsApplet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3 d RandomArt/3 d RandomArt.iml" filepath="$PROJECT_DIR$/3 d RandomArt/3 d RandomArt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3 e RandomArtApplet/3 e RandomArtApplet.iml" filepath="$PROJECT_DIR$/3 e RandomArtApplet/3 e RandomArtApplet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3 f Calculator/3 f Calculator.iml" filepath="$PROJECT_DIR$/3 f Calculator/3 f Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3 g CalculatorApplet/3 g CalculatorApplet.iml" filepath="$PROJECT_DIR$/3 g CalculatorApplet/3 g CalculatorApplet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3 h ListTest/3 h ListTest.iml" filepath="$PROJECT_DIR$/3 h ListTest/3 h ListTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3 i TableTest/3 i TableTest.iml" filepath="$PROJECT_DIR$/3 i TableTest/3 i TableTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3 j SequentialSimpleTree/3 j SequentialSimpleTree.iml" filepath="$PROJECT_DIR$/3 j SequentialSimpleTree/3 j SequentialSimpleTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4 a Grapes/4 a Grapes.iml" filepath="$PROJECT_DIR$/4 a Grapes/4 a Grapes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4 b Drinks/4 b Drinks.iml" filepath="$PROJECT_DIR$/4 b Drinks/4 b Drinks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4 c ThreadTest1/4 c ThreadTest1.iml" filepath="$PROJECT_DIR$/4 c ThreadTest1/4 c ThreadTest1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4 d  Synchronized 1/4 d  Synchronized 1.iml" filepath="$PROJECT_DIR$/4 d  Synchronized 1/4 d  Synchronized 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4 e Synchronized 2/4 e Synchronized 2.iml" filepath="$PROJECT_DIR$/4 e Synchronized 2/4 e Synchronized 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4 f Unsynchronized/4 f Unsynchronized.iml" filepath="$PROJECT_DIR$/4 f Unsynchronized/4 f Unsynchronized.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4 g Threadtest2/4 g Threadtest2.iml" filepath="$PROJECT_DIR$/4 g Threadtest2/4 g Threadtest2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4 h ThreadTest3/4 h ThreadTest3.iml" filepath="$PROJECT_DIR$/4 h ThreadTest3/4 h ThreadTest3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4 i DataLocal/4 i DataLocal.iml" filepath="$PROJECT_DIR$/4 i DataLocal/4 i DataLocal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4 i LocalData/4 i LocalData.iml" filepath="$PROJECT_DIR$/4 i LocalData/4 i LocalData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5 a InvokeLater0/5 a InvokeLater0.iml" filepath="$PROJECT_DIR$/5 a InvokeLater0/5 a InvokeLater0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5 b InvokeLater1/5 b InvokeLater1.iml" filepath="$PROJECT_DIR$/5 b InvokeLater1/5 b InvokeLater1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5 c InvokeAndWait/5 c InvokeAndWait.iml" filepath="$PROJECT_DIR$/5 c InvokeAndWait/5 c InvokeAndWait.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5 d GoodBadWorkers/5 d GoodBadWorkers.iml" filepath="$PROJECT_DIR$/5 d GoodBadWorkers/5 d GoodBadWorkers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5 e ProgressBarTest/5 e ProgressBarTest.iml" filepath="$PROJECT_DIR$/5 e ProgressBarTest/5 e ProgressBarTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5 f Duke/5 f Duke.iml" filepath="$PROJECT_DIR$/5 f Duke/5 f Duke.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2 e PushCounter/Test76a/Test76a.iml" filepath="$PROJECT_DIR$/2 e PushCounter/Test76a/Test76a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2 e PushCounter/Test76b/Test76b.iml" filepath="$PROJECT_DIR$/2 e PushCounter/Test76b/Test76b.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2 e PushCounter/Test77b/Test77b.iml" filepath="$PROJECT_DIR$/2 e PushCounter/Test77b/Test77b.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2 e PushCounter/Test78a/Test78a.iml" filepath="$PROJECT_DIR$/2 e PushCounter/Test78a/Test78a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WBTest/WBTest.iml" filepath="$PROJECT_DIR$/WBTest/WBTest.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="org.eclipse.jdt.ui.last.selected.execution.enviroment" value="JavaSE-1.7"/>
+	<item key="org.eclipse.jdt.ui.last.selected.jre.kind2" value="0"/>
+	<section name="org.eclipse.ltk.ui.refactoring.settings">
+		<item key="updateSimilarElements" value="false"/>
+		<item key="updateSimilarElementsMatchStrategy" value="1"/>
+		<item key="updateTextualMatches" value="false"/>
+	</section>
+	<section name="org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart">
+		<item key="layout" value="2"/>
+		<item key="group_libraries" value="true"/>
+		<item key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;packageExplorer group_libraries=&quot;1&quot; layout=&quot;2&quot; linkWithEditor=&quot;0&quot; rootMode=&quot;1&quot; workingSetName=&quot;Aggregate for window 1384098621484&quot;&gt;&#x0D;&#x0A;&lt;customFilters userDefinedPatternsEnabled=&quot;false&quot;&gt;&#x0D;&#x0A;&lt;xmlDefinedFilters&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.StaticsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.buildship.ui.packageexplorer.filter.gradle.buildfolder&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.mylyn.java.ui.MembersFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonJavaProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer_patternFilterId_.*&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonSharedProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.SyntheticMembersFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ContainedLibraryFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.HideInnerClassFilesFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.EmptyInnerPackageFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.m2e.MavenModuleFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.buildship.ui.packageexplorer.filter.gradle.subProject&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ClosedProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.DeprecatedMembersFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.EmptyLibraryContainerFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.PackageDeclarationFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ImportDeclarationFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonJavaElementFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.LibraryFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.CuAndClassFileFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.EmptyPackageFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonPublicFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.LocalTypesFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.FieldsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;/xmlDefinedFilters&gt;&#x0D;&#x0A;&lt;/customFilters&gt;&#x0D;&#x0A;&lt;/packageExplorer&gt;"/>
+		<item key="linkWithEditor" value="false"/>
+		<item key="rootMode" value="1"/>
+	</section>
+	<section name="NewClassWizardPage">
+		<item key="create_constructor" value="false"/>
+		<item key="create_main" value="true"/>
+		<item key="create_unimplemented" value="true"/>
+	</section>
+	<section name="OptionalMessageDialog.hide.">
+		<item key="org.eclipse.jdt.ui.typecomment.deprecated" value="true"/>
+	</section>
+	<section name="RefactoringWizard.preview">
+		<item key="width" value="600"/>
+		<item key="height" value="400"/>
+	</section>
+	<section name="FatJarPackageWizard">
+		<item key="FatJarPackageWizardPage.ANTSCRIPT_LOCATION" value="C:\Documents and Settings\Uri\workspace"/>
+		<item key="FatJarPackageWizardPage.DESTINATION_PATH_SELECTION" value="C:\\JavaEx4\Beatles.jar"/>
+		<item key="FatJarPackageWizardPage.LAUNCH_CONFIGURATION_SELECTION_NAME" value="Beatles - 1 k ArrayList"/>
+		<item key="FatJarPackageWizardPage.ANTSCRIPT_SAVE" value="false"/>
+		<item key="FatJarPackageWizardPage.LIBRARY_HANDLING" value="1"/>
+		<list key="FatJarPackageWizardPage.DESTINATION_NAMES_ID">
+			<item value="C:\\JavaEx4\Beatles.jar"/>
+			<item value="C:\\JavaEx4\Test.jar"/>
+			<item value="C://JavaEx4/Tesdt.jar"/>
+		</list>
+		<list key="FatJarPackageWizardPage.ANTSCRIPT_LOCATION_HISTORY">
+			<item value="C:\Documents and Settings\Uri\workspace.xml"/>
+			<item value=".xml"/>
+		</list>
+	</section>
+	<section name="javadoc">
+		<item key="access" value="public"/>
+		<item key="noindex" value="false"/>
+		<item key="antpath" value="C:\Documents and Settings\Uri\workspace\1 a Hello World\javadoc.xml"/>
+		<item key="nodeprecatedlist" value="false"/>
+		<item key="use" value="true"/>
+		<item key="author" value="true"/>
+		<item key="nodeprecated" value="false"/>
+		<item key="nonavbar" value="false"/>
+		<item key="docletpath" value=""/>
+		<item key="javadoc_command_history" value="C:\Program Files\Java\jdk1.8.0_181\bin\javadoc.exe;C:\Program Files\Java\jdk1.6.0_17\bin\javadoc.exe"/>
+		<item key="source" value="1.6"/>
+		<item key="version" value="true"/>
+		<item key="doctitle" value="xxx"/>
+		<item key="docletname" value=""/>
+		<item key="splitindex" value="true"/>
+		<item key="fromStandard" value="true"/>
+		<item key="notree" value="false"/>
+		<item key="destdir" value="C:\Users\us144\Desktop\Doc"/>
+		<item key="openinbrowser" value="false"/>
+		<section name="projects">
+			<section name="1 s Hide Override">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\1 s Hide Override\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\1 s Hide Override\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="1 g Vector IO">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\1 g Vector IO\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\1 g Vector IO\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="1 l Parameter Passing">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\1 a Hello World\javadoc.xml"/>
+				<item key="destdir" value="C:\Users\us144\Desktop\Doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="4 g Threadtest2">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\4 g Threadtest2\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\4 g Threadtest2\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="2 q Rebound">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\2 q Rebound\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\2 q Rebound\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="2 d Splat">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\2 d Splat\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\2 d Splat\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="1 b Einstein">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\1 b Einstein\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\1 b Einstein\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="5 d GoodBadWorkers">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\5 d GoodBadWorkers\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\5 d GoodBadWorkers\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="2 u LightBulb">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\2 u LightBulb\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\2 u LightBulb\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="4 b Drinks">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\4 b Drinks\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\4 b Drinks\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="2 c Smiling Face">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\2 c Smiling Face\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\2 c Smiling Face\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="Test">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\Test\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\Desktop\Uri"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="1 t Compare">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\1 t Compare\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\1 t Compare\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="ParameterEx">
+				<item key="antpath" value="C:\Users\us144\workspace\ParameterEx\javadoc.xml"/>
+				<item key="destdir" value="C:\Users\us144\workspace\ParameterEx\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="2 h EvenOdd">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\2 h EvenOdd\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\2 h EvenOdd\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="2 s ColourDisplay">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\2 s ColourDisplay\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\2 s ColourDisplay\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="4 a Grapes">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\4 a Grapes\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\4 a Grapes\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="1 k ArrayList">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\1 k ArrayList\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\1 k ArrayList\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="4 c ThreadTest1">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\4 c ThreadTest1\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\4 c ThreadTest1\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="3 d RandomArt">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\3 d RandomArt\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\3 d RandomArt\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="4 h ThreadTest3">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\4 h ThreadTest3\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\4 h ThreadTest3\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="5 a InvokeLater0">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\5 a InvokeLater0\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\5 a InvokeLater0\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="5 b InvokeLater1">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\5 b InvokeLater1\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\5 b InvokeLater1\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="4 e Synchronized 2">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\4 e Synchronized 2\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\4 e Synchronized 2\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="3 b TiledPictures">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\3 b TiledPictures\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\3 b TiledPictures\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="3 k SubMarineKiller">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\3 k SubMarineKiller\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\3 k SubMarineKiller\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="3 e RandomArtApplet">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\3 e RandomArtApplet\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\3 e RandomArtApplet\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="2 a Authority">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\2 a Authority\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\2 a Authority\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="2 f Fahrenheit1">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\2 f Fahrenheit1\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\2 f Fahrenheit1\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="2 e PushCounter">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\2 e PushCounter\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\2 e PushCounter\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="5 e ProgressBarTest">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\5 e ProgressBarTest\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\5 e ProgressBarTest\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="2 g Fahrenheit2">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\1 a Hello World\javadoc.xml"/>
+				<item key="destdir" value="C:\Users\us144\Desktop"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="2 r FileDisplay">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\2 r FileDisplay\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\2 r FileDisplay\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="1 e Numeric IO">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\1 e Numeric IO\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\1 e Numeric IO\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="3 g CalculatorApplet">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\3 g CalculatorApplet\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\3 g CalculatorApplet\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="2 v JukeBox">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\2 v JukeBox\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\2 v JukeBox\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="1 a Hello World">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\1 a Hello World\javadoc.xml"/>
+				<item key="destdir" value="C:\doc                    "/>
+				<item key="href" value=""/>
+			</section>
+			<section name="2 k Layout">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\2 k Layout\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\2 k Layout\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="5 f Duke">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\5 f Duke\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\5 f Duke\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="2 w TransitMap">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\2 w TransitMap\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\2 w TransitMap\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="3 i TableTest">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\3 i TableTest\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\3 i TableTest\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="RemoteSystemsTempFiles">
+				<item key="antpath" value="C:\Users\us144\workspace\RemoteSystemsTempFiles\javadoc.xml"/>
+				<item key="destdir" value="C:\Users\us144\workspace\RemoteSystemsTempFiles\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="2 n Dots">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\2 n Dots\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\2 n Dots\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="1 d Basic IO">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\1 d Basic IO\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\1 d Basic IO\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="2 t SlideColor">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\2 t SlideColor\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\2 t SlideColor\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="1 c Snowman">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\1 c Snowman\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\1 c Snowman\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="1 p String Equality">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\1 p String Equality\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\1 p String Equality\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="4 d  Synchronized 1">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\4 d  Synchronized 1\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\4 d  Synchronized 1\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="3 h ListTest">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\3 h ListTest\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\3 h ListTest\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="3 c Fractals">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\3 c Fractals\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\3 c Fractals\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="2 p Direction">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\2 p Direction\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\2 p Direction\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="4 f Unsynchronized">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\4 f Unsynchronized\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\4 f Unsynchronized\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="1 f File IO">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\1 f File IO\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\1 f File IO\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="3 j SequentialSimpleTree">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\3 j SequentialSimpleTree\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\3 j SequentialSimpleTree\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="2 j Quote Options">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\2 j Quote Options\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\2 j Quote Options\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="2 y PickImage">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\2 y PickImage\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\2 y PickImage\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="3 f Calculator1">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\3 f Calculator1\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\3 f Calculator1\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="1 q String Conversion">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\1 q String Conversion\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\1 q String Conversion\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="1 m ListTest">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\1 m ListTest\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\1 m ListTest\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="2 m Rocket">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\2 m Rocket\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\2 m Rocket\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="2 i StyleOptions">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\2 i StyleOptions\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\2 i StyleOptions\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="2 l BorderDemo">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\2 l BorderDemo\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\2 l BorderDemo\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="2 b Nested Panels">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\2 b Nested Panels\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\2 b Nested Panels\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="2 o RubberLines">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\2 o RubberLines\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\2 o RubberLines\doc"/>
+				<item key="href" value=""/>
+			</section>
+			<section name="5 c InvokeAndWait">
+				<item key="antpath" value="C:\Documents and Settings\Uri\workspace\5 c InvokeAndWait\javadoc.xml"/>
+				<item key="destdir" value="C:\Documents and Settings\Uri\workspace\5 c InvokeAndWait\doc"/>
+				<item key="href" value=""/>
+			</section>
+		</section>
+	</section>
+	<section name="quick_assist_proposal_size">
+	</section>
+	<section name="JavadocWizardDialog">
+		<item key="DIALOG_WIDTH" value="616"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		<item key="DIALOG_HEIGHT" value="567"/>
+		<item key="DIALOG_Y_ORIGIN" value="8"/>
+		<item key="DIALOG_X_ORIGIN" value="241"/>
+	</section>
+	<section name="NewPackageWizardPage">
+		<item key="create_package_info_java" value="false"/>
+	</section>
+	<section name="BuildPathsPropertyPage">
+		<item key="pageIndex" value="3"/>
+	</section>
+	<section name="completion_proposal_size">
+	</section>
+	<section name="JavaElementSearchActions">
+	</section>
+</section>

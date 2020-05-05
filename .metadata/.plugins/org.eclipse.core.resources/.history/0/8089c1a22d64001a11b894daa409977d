@@ -1,0 +1,30 @@
+
+import java.awt.*;
+import javax.swing.*;
+
+	public class Main {
+
+		public static void main(String[] args) {
+			
+			 int Screen_WIDTH = 400, Screen_HEIGHT = 400;
+			 
+			 JFrame frame = new JFrame ("Light Bulb");
+		      frame.setDefaultCloseOperation (JFrame.EXIT_ON_CLOSE);
+
+		      SnowFlakePanel flake = new SnowFlakePanel();
+		      Controls controls = new Controls ();
+
+		      JPanel panel = new JPanel();
+		      panel.setBackground (Color.red);
+		      flake.setPreferredSize (new Dimension(Screen_WIDTH, Screen_HEIGHT - 40));	
+		      controls.setPreferredSize (new Dimension(400, 40));
+		      panel.setLayout (new BoxLayout(panel, BoxLayout.Y_AXIS));
+		      panel.add (controls);
+		      panel.add (flake);
+		      frame.getContentPane().add(panel);
+		      frame.pack();
+		      frame.setVisible(true);
+		}
+
+}
+

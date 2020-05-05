@@ -1,0 +1,75 @@
+
+import java.awt.*;
+import java.awt.event.*;
+import javax.swing.*;
+
+public class Controls extends JPanel {
+		//int Screen_WIDTH = 400;
+		final int MIN = 1, MAX = 9;
+		 
+		SnowFlakePanel flake;
+		JButton increase, decrease;
+		JLabel titleLabel, orderLabel;
+		OnListener listener = new OnListener();
+		
+		Controls(SnowFlakePanel f){
+			flake = f;
+			setLayout (new BoxLayout(this, BoxLayout.X_AXIS));
+			setBackground (Color.yellow);
+			setOpaque (true);
+		   
+		   //  Sets up the components.
+		   
+		      titleLabel = new JLabel ("The Koch Snowflake");
+		      titleLabel.setForeground (Color.black);
+
+		      increase = new JButton (new ImageIcon ("increase.gif"));
+		      increase.setPressedIcon (new ImageIcon ("increasePressed.gif"));
+		      increase.setMargin (new Insets (0, 0, 0, 0));
+		      increase.addActionListener (listener);
+
+		      decrease = new JButton (new ImageIcon ("decrease.gif"));
+		      decrease.setPressedIcon (new ImageIcon ("decreasePressed.gif"));
+		      decrease.setMargin (new Insets (0, 0, 0, 0));
+		      decrease.addActionListener (listener);
+
+		      orderLabel = new JLabel ("Order: 1");
+		      orderLabel.setForeground (Color.black);
+
+		      add (Box.createHorizontalStrut (43));
+		      add (titleLabel);
+		      add (Box.createHorizontalStrut (40));
+		      add (decrease);
+		      add (increase);
+		      add (Box.createHorizontalStrut (20));
+		      add (orderLabel);
+		      add (Box.createHorizontalStrut (43));
+		      
+		      
+		}  // end constructor Controls()
+		      
+		      //  Determines which button was pushed, and sets the new order
+			   //  if it is in range.
+		
+		       private class OnListener implements ActionListener {
+			      public void actionPerformed (ActionEvent event)  {
+			    	  System.out.println(54);
+			      int order = flake.getOrder();
+
+			      if (event.getSource() == increase) {
+			         order++;
+			         flake.repaint(); }
+			      else
+			         order--;
+
+			      if (order >= MIN && order <= MAX)
+			      {
+			         orderLabel.setText ("Order: " + order);
+			         flake.setOrder (order);
+			         flake.repaint(); 
+			      }  // end if
+			    } // end actionPerformed()
+			      
+		   }     // end class OnListener
+
+}   // end class Controls

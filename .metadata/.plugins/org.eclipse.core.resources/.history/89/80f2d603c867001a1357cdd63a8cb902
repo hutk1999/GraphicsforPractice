@@ -1,0 +1,20 @@
+		import java.awt.*;
+		import javax.swing.*;
+		
+		public class Main {
+
+				public static void main(String[] args) {
+					 final int Screen_WIDTH = 400;
+					 final int Screen_HEIGHT = 400;
+										 
+					 // Frame frame
+					 	JFrame frame = new JFrame ("Koch Snowflake");
+				      	frame.setDefaultCloseOperation (JFrame.EXIT_ON_CLOSE);
+				      	frame.getContentPane().add(new Mainpanel());
+				     	frame.pack();
+				     	frame.setVisible(true);	
+				     	
+				        
+				}
+
+}

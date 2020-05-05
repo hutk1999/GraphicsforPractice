@@ -1,0 +1,29 @@
+
+import java.awt.*;
+import javax.swing.*;
+
+	public class Main {
+
+		public static void main(String[] args) {
+			 JFrame frame = new JFrame ("Light Bulb");
+		      frame.setDefaultCloseOperation (JFrame.EXIT_ON_CLOSE);
+
+		      SnowFlakePanel flake = new SnowFlakePanel();
+		      Controls controls = new Controls ();
+
+		      JPanel panel = new JPanel();
+		      panel.setBackground (Color.black);
+		      panel.setLayout (new BoxLayout(panel, BoxLayout.Y_AXIS));
+		      panel.add (Box.createRigidArea (new Dimension (0, 20)));
+		      panel.add (controls);
+		      panel.add (Box.createRigidArea (new Dimension (0, 10)));
+		      panel.add (flake);
+		      panel.add (Box.createRigidArea (new Dimension (0, 10)));
+
+		      frame.getContentPane().add(panel);
+		      frame.pack();
+		      frame.setVisible(true);
+		}
+
+}
+

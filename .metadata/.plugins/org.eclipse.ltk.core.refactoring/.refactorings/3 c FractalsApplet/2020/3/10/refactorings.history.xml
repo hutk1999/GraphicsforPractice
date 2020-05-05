@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 4 elements to &apos;3 c Fractals/src&apos;&#x0D;&#x0A;- Original project: &apos;3 c FractalsApplet&apos;&#x0D;&#x0A;- Destination element: &apos;3 c Fractals/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     increase.gif&#x0D;&#x0A;     increasePressed.gif&#x0D;&#x0A;     decrease.gif&#x0D;&#x0A;     decreasePressed.gif" description="Copy files" destination="=3 c Fractals/src" element1="src/increase.gif" element2="src/increasePressed.gif" element3="src/decrease.gif" element4="src/decreasePressed.gif" files="4" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1583439878737" units="0" version="1.0"/>
+</session>

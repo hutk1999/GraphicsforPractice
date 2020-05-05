@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 elements to &apos;3 b TiledPictures/src&apos;&#x0D;&#x0A;- Original project: &apos;3 b TiledPictures Applet&apos;&#x0D;&#x0A;- Destination element: &apos;3 b TiledPictures/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     goat.gif&#x0D;&#x0A;     everest.gif&#x0D;&#x0A;     world.gif" description="Copy files" destination="=3 b TiledPictures/src" element1="src/goat.gif" element2="src/everest.gif" element3="src/world.gif" files="3" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1583251847571" units="0" version="1.0"/>
+</session>

@@ -1,0 +1,6 @@
+#Tue Jan 22 18:03:13 IST 2019
+0.Path=C\:\\Users\\us144\\minghc-7.10.2-x86_64\\git-2.4.5.1\\bin\\sh.exe
+0.Name=Git Bash
+0.Args=--login -i
+0.Translate=true
+0.Icon=C\:\\Users\\us144\\minghc-7.10.2-x86_64\\git-2.4.5.1\\mingw32\\share\\git\\git-for-windows.ico

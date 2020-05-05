@@ -1,0 +1,25 @@
+
+import java.awt.*;
+import javax.swing.*;
+
+	public class Main {
+
+		public static void main(String[] args) {
+			 JFrame frame = new JFrame ("Light Bulb");
+		      frame.setDefaultCloseOperation (JFrame.EXIT_ON_CLOSE);
+
+		      SnowFlakePanel flake = new SnowFlakePanel(1);
+		      Controls controls = new Controls ();
+
+		      JPanel panel = new JPanel();
+		      panel.setBackground (Color.black);
+		      panel.setLayout (new BoxLayout(panel, BoxLayout.Y_AXIS));
+		      panel.add (controls);
+		      panel.add (flake);
+		      frame.getContentPane().add(panel);
+		      frame.pack();
+		      frame.setVisible(true);
+		}
+
+}
+

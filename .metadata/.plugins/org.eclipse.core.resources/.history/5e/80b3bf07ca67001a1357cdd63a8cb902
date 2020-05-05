@@ -1,0 +1,149 @@
+
+import java.awt.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import javax.swing.*;
+
+
+
+public class MainPanel extends JPanel  {
+
+	final int Screen_WIDTH = 400;
+    final int Screen_HEIGHT = 400;
+    
+   private final double SQ = Math.sqrt(3.0) / 6;
+   private final int TOPX = 200, TOPY = 20;
+   private final int LEFTX = 60, LEFTY = 300;
+   private final int RIGHTX = 340, RIGHTY = 300;
+   final int MIN = 1, MAX = 9;
+
+   int order = 1;  // initial order
+   
+   JPanel tools;
+   JPanel flake;
+   JLabel titleLabel;
+   JLabel orderLabel;
+   JButton increase;
+   JButton decrease;
+
+    
+   // MainPanel Constructor:
+   
+   public MainPanel ()  {
+		
+	    
+	    tools = new JPanel();
+	    tools.setPreferredSize (new Dimension(400, 40));
+	    tools.setLayout (new BoxLayout(tools, BoxLayout.X_AXIS));
+		tools.setBackground (Color.yellow);
+		tools.setOpaque (true);
+		
+		
+		flake = new JPanel();
+		flake.setBackground (Color.black);
+		flake.setPreferredSize (new Dimension(400, 360));
+		
+		
+		   
+	   
+	      //  Sets up the components of tools:
+	   
+	      titleLabel = new JLabel ("The Koch Snowflake");
+	      titleLabel.setForeground (Color.black);
+
+	      increase = new JButton (new ImageIcon ("increase.gif"));
+	      increase.setPressedIcon (new ImageIcon ("increasePressed.gif"));
+	      increase.setMargin (new Insets (0, 0, 0, 0));
+	      increase.addActionListener (new OnListener());
+
+	      decrease = new JButton (new ImageIcon ("decrease.gif"));
+	      decrease.setPressedIcon (new ImageIcon ("decreasePressed.gif"));
+	      decrease.setMargin (new Insets (0, 0, 0, 0));
+	      decrease.addActionListener (new OnListener());
+
+	      orderLabel = new JLabel ("Order: 1");
+	      orderLabel.setForeground (Color.black);
+
+	      tools.add (Box.createHorizontalStrut (43));
+	      tools.add (titleLabel);
+	      tools.add (Box.createHorizontalStrut (40));
+	      tools.add (decrease);
+	      tools.add (Box.createHorizontalStrut (80));
+	      tools.add (increase);
+	      tools.add (Box.createHorizontalStrut (20));
+	      tools.add (orderLabel);
+	      tools.add (Box.createHorizontalStrut (43));
+	      
+	      setBackground (Color.red);
+		  setPreferredSize (new Dimension(Screen_WIDTH, Screen_HEIGHT));
+		  setLayout (new BoxLayout(this, BoxLayout.Y_AXIS));
+		  add (tools);
+		  add (flake);
+			
+   }
+   
+   
+   //  Draws the fractal recursively. The base case is order 1 for
+   //  which a simple straight line is drawn. Otherwise three
+   //  intermediate points are computed, and each line segment is
+   //  drawn as a fractal.
+   
+    public void drawFractal (int order, int x1, int y1, int x5, int y5,
+                            Graphics page)  {
+   
+      int deltaX, deltaY, x2, y2, x3, y3, x4, y4;
+
+      if (order == 1)
+         page.drawLine (x1, y1, x5, y5);
+      else
+      {
+         deltaX = x5 - x1;  // distance between end points
+         deltaY = y5 - y1;
+
+         x2 = x1 + deltaX / 3;  // one third
+         y2 = y1 + deltaY / 3;
+
+         x3 = (int) ((x1+x5)/2 + SQ * (y1-y5));  // tip of projection
+         y3 = (int) ((y1+y5)/2 + SQ * (x5-x1));
+
+         x4 = x1 + deltaX * 2/3;  // two thirds
+         y4 = y1 + deltaY * 2/3;
+
+         drawFractal (order-1, x1, y1, x2, y2, page);
+         drawFractal (order-1, x2, y2, x3, y3, page);
+         drawFractal (order-1, x3, y3, x4, y4, page);
+         drawFractal (order-1, x4, y4, x5, y5, page);
+      }
+   }  // end drawFractal
+
+   
+   //  Performs the initial calls to the drawFractal method.
+   
+   public void paintComponent (Graphics page)  {
+      super.paintComponent (page);
+      page.setColor (Color.green);
+
+      drawFractal (order, TOPX, TOPY, LEFTX, LEFTY, page);
+      drawFractal (order, LEFTX, LEFTY, RIGHTX, RIGHTY, page);
+      drawFractal (order, RIGHTX, RIGHTY, TOPX, TOPY, page);
+   } // end paintComponent
+
+   
+// Determines which button was pushed, and sets the new order
+	//  if it is in range.
+
+		private class OnListener implements ActionListener {
+		    public void actionPerformed (ActionEvent event)  {
+		      if (event.getSource() == increase) order++;
+		      else order--; 
+		      
+		      orderLabel.setText ("Order: " + order);
+		      if (order >= MIN && order <= MAX)
+		      {
+		         orderLabel.setText ("Order: " + order);
+		         repaint();
+		      }
+		     
+		    }  // end actionPerformed
+		}  // end OnListener
+}

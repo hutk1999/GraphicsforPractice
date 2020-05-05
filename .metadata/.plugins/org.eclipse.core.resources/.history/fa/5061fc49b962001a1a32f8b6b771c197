@@ -1,0 +1,37 @@
+		import java.awt.*;
+		import javax.swing.*;
+		
+		public class KochSnowflake {
+
+				public static void main(String[] args) {
+					 final int Screen_WIDTH = 400;
+					 final int Screen_HEIGHT = 400;
+					
+					 
+					  
+					 
+					 // Frame frame
+					 	JFrame frame = new JFrame ("Koch Snowflake");
+				      	frame.setDefaultCloseOperation (JFrame.EXIT_ON_CLOSE);
+				     	frame.pack();
+				     	frame.setVisible(true);	
+				      	
+				     // Panels:
+						JPanel mainpanel = new JPanel();
+						mainpanel.setSize (Screen_WIDTH, Screen_HEIGHT);
+				      	KochPanel drawing = new KochPanel(1);
+				      	drawing.setPreferredSize (new Dimension(Screen_WIDTH, Screen_HEIGHT - 40));
+				      	Tools tools = new Tools(drawing);
+				      	tools.setPreferredSize (new Dimension (Screen_WIDTH, 40));
+				      	   
+				     	
+				     	
+				     	frame.getContentPane().add(mainpanel);
+				     	mainpanel.setBackground (Color.black);
+				        mainpanel.setLayout (new BoxLayout(mainpanel, BoxLayout.Y_AXIS));
+				        mainpanel.add (tools);
+				        mainpanel.add (Box.createVerticalStrut (40));
+				     	mainpanel.add (drawing);
+				}
+
+}
